@@ -1,0 +1,130 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arima;
+}
+
+h1 {
+    text-align: center;
+    background-color: #663399;
+    color: #ffd700;
+    padding: 20px;
+    font-family: Arima;
+
+}
+
+
+
+nav ul {
+    background-color: #e6e6fa;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-flex;
+
+}
+
+nav li a {
+    color: #ff1493;
+    font-weight: bold;
+    font-family: Arima;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+}
+
+nav li:hover {
+    background-color: black;
+    transition: .5s;
+
+}
+
+.contenido {
+    display: flex;
+    margin: 0px;
+    background-color: white;
+    text-align: center;
+    background-color: #663399;
+    color: #ffd700;
+    padding: 20px;
+    font-family: Arima;
+
+
+}
+
+.seccion1 {
+    background-color: #663399;
+}
+
+
+
+.seccion1 p {
+    color: white;
+}
+
+.seccion1 h2 {
+    color: black;
+}
+
+.seccion2 h2 {
+    color: #ffd700;
+}
+
+.seccion2 {
+    text-align: center;
+    background-color: #e6e6fa;
+}
+
+.contenido h2 {
+    text-align: center;
+}
+
+.seccion1 h2 {
+    font-weight: bold;
+    font-family: Arima;
+    color: #ffd700;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h5 {
+    font-weight: 600;
+}
+
+p {
+    text-align: center;
+    font-family: Arima;
+    font-weight: bold;
+}
+
+
+
+.contactarnos {
+    background-color: #663399;
+    text-align: center;
+}
+
+.contactarnos p {
+    color: white;
+}
+
+.contactarnos h2 {
+    color: #ffd700;
+}
+
+.contactarnos a {
+    border: 1px solid;
+    color: #ffd700;
+    background-color: #e6e6fa;
+    font-weight: bold;
+    text-decoration: none;
+    transition: .5s;
+    border-radius: 10px;
+}
